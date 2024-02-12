@@ -1,0 +1,9 @@
+{
+	"name": "aravindf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcd584a1-3f6b-4f50-8fd4-58d6b18d1d54",
+		"tenantId": "981f96ef-d2c9-4557-90a4-8962f6003d4b"
+	}
+}
